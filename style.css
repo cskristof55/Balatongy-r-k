@@ -1,4 +1,9 @@
 body
 {
 background-image: url(back.jpg);
+.torzs
+{
+    width: 1000px;
+    margin: auto;
+}
 }
